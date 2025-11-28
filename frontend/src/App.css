@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+body {
+    background-color: #c21919;
+    font-family: "JosefinSans";
+}
+
+@font-face {
+    font-family: "JosefinSans";
+    src: url('JosefinSans'), url(./fonts/JosefinSans/JosefinSans-VariableFont_wght.ttf)
+}
+
+.navlink-text-players {
+    text-decoration: none;
+}
+
+.navlink-text-players a {
+    text-decoration: none;
+}

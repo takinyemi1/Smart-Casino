@@ -1,0 +1,50 @@
+npm install axios react-router react-icons
+
+install tailwind css
+
+server:
+npm install express bcrypt cors express mongoose nodemon jsonwebtoken
+
+nodemon --env-file=.env file_name.js
+
+default server code
+npm init --y
+connection
+user model
+user seed file
+login api
+
+react-router
+context api
+root
+frontend
+protected route
+
+bootstrap: npm install react-bootstrap bootstrap
+
+tailwind: npm install tailwindcss @tailwindcss/vite
+
+vite.config.js
+plugins: [
+    react(),
+    tailwindcss(),
+  ],
+
+notes
+
+for admin user setup:
+node --env-file=.env userSeed.js
+
+- in index.js a route can be mounted like: app.use('/api/main/route', router)
+- every route inside router gets prefixed with: /api/main/route
+- in router.js, don't do: router.get('/api/main/route', middleware, getAll)
+- so the full route Express listens to is: '/api/main/route/api/main/route
+
+fix
+- in router.js: use relative path: router.get('/', middleware, getAll) - relative to mount point
+- then Express mounts router at /api/admin/management/manage-members
+- the GET / inside the router means the full path is: http://localhost:5000/api/admin/management/manage-members
+
+note - findById expects an ID string directly not an object because of ({_id: id}) so fix to (id)
+
+npm install react-scroll
