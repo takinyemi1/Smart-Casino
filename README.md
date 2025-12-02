@@ -32,7 +32,7 @@ This website utilizes MERN (MongoDB, Express.js, React.js, and Node.js).
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of Smart Casino:
 
 <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJnajJibzl6N3Z3eXdwODFldzV0aXJnNzZkbjIxb2s3Z3U0cmVwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8NBF4jgp6zyDk5uB5W/giphy.gif' title='Smart Casino Blackjack Video Walkthrough' width='' alt='Smart Casino Blackjack Video Walkthrough' />
 
