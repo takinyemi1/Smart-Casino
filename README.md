@@ -34,7 +34,7 @@ This website utilizes MERN (MongoDB, Express.js, React.js, and Node.js).
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ1a3U1OGcwMDd2amluNXppaG5rOGJsYXZ5cmtlZDB3ZWp3bWQzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7qiwtR5XGtcZSOejIw/giphy.gif' title='Smart Casino Blackjack Video Walkthrough' width='' alt='Smart Casino Blackjack Video Walkthrough' />
+<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJnajJibzl6N3Z3eXdwODFldzV0aXJnNzZkbjIxb2s3Z3U0cmVwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8NBF4jgp6zyDk5uB5W/giphy.gif' title='Smart Casino Blackjack Video Walkthrough' width='' alt='Smart Casino Blackjack Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with <a href='https://www.bing.com/search?q=licecap&cvid=90c75dac1b13474cb222b3d1f03d6cc7&gs_lcrp=EgRlZGdlKgYIABBFGDsyBggAEEUYOzIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMggIBRDpBxj8VdIBCDI2ODhqMGo5qAIIsAIB&FORM=ANAB01&PC=U531'>LICEcap</a>  
